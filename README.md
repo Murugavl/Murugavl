@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi there! I’m  a passionate Python developer with a knack for building scalable and efficient applications. I love diving into data analysis, web development, and automation projects.<br><br>🔧 Skills:<br><br>Proficient in <br>  Python<br>  Pandas<br>  Numpy<br>  Streamlit<br><br>Version control with Git and GitHub<br><br>🌱 Currently Learning:<br><br>  Django<br>  Flask<br>  Machine learning with TensorFlow and Scikit-learn<br>Cloud technologies (AWS, Azure)<br><br>💡 Projects:<br><br>Project: Liver Cancer Detection Using Machine Learning<br>Overview: This project focuses on detecting liver cancer early by applying various machine learning algorithms to medical datasets.
+👋 Hi there! I’m  a passionate Python developer with a knack for building scalable and efficient applications. I love diving into data analysis, web development, and automation projects.<br>
+<h2>🔧 Skills:</h2><h3>Proficient in</h3><p> &emsp; * Python<br> &emsp; * Pandas<br> &emsp; * Numpy<br> &emsp; * Streamlit<br> &emsp; * Scipy<br> &emsp; * Matplolib<br> &emsp; * Version control with Git and GitHub<br></p><br><h2>🌱 Currently Learning:</h2><p> &emsp; * Django<br> &emsp; * Flask<br> &emsp; * Machine learning with TensorFlow and Scikit-learn<br> &emsp; * Cloud technologies (AWS, Azure)<br><br></p><h2>💡 Projects:</h2><h3>Project:</h3> Liver Cancer Detection Using Machine Learning<br>Overview: This project focuses on detecting liver cancer early by applying various machine learning algorithms to medical datasets.
 
 
 ## 🌐 Socials:
