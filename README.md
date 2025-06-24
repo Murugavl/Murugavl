@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>👋 Hi there! I’m a passionate Python developer with a knack for building scalable and efficient applications. I love diving into data analysis, web development, and automation projects.<br><br>🌱 Currently Learning:<br> * Machine learning with TensorFlow and Scikit-learn<br> 💡 Projects:<br>Project:<br>Liver Cancer Detection Using Machine Learning<br>Overview: This project focuses on detecting liver cancer early by applying various machine learning algorithms to medical datasets.
+💫 About Me:<br>👋 Hi there! I’m a passionate Python developer with a knack for building scalable and efficient applications. I love diving into data analysis, web development, and automation projects.<br><br>🌱 Currently Learning:<br> * Machine learning with TensorFlow and Scikit-learn<br>💡 Projects:<br>Project:<br>Liver Cancer Detection Using Machine Learning<br>Overview: This project focuses on detecting liver cancer early by applying various machine learning algorithms to medical datasets.
 
 
 ## 🌐 Socials:
